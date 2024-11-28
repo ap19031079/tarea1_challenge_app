@@ -20,7 +20,6 @@ class Flowercard extends StatelessWidget {
           buildBackgroundImage(cardWidth, cardHeight, size),
           buildAboveCard(cardWidth, cardHeight, size),
           buildFlowerImage(size),
-          buildBlurImage(cardWidth, size),
         ],
       ),
     );
